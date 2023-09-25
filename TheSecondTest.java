@@ -29,7 +29,6 @@ public class Student {
 
     public Student() {}
 
-}
     /*Do this for each field*/
     public /*retun value*/ get/*field*/() {
         return this./*field*/
@@ -39,3 +38,4 @@ public class Student {
     public void set/*field*/(/*field value*/ /*field*/) {
         this./*field*/ = /*field*/
     }
+}
